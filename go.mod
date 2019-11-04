@@ -19,6 +19,7 @@ require (
 	github.com/google/go-cmp v0.3.1 // indirect
 	github.com/google/go-querystring v1.0.0 // indirect
 	github.com/gopherjs/gopherjs v0.0.0-20190812055157-5d271430af9f // indirect
+	github.com/hanwen/go-fuse/v2 v2.0.3-0.20191103162138-d6dc0f2a2834
 	github.com/hashicorp/golang-lru v0.5.3 // indirect
 	github.com/jlaffaye/ftp v0.0.0-20190721194432-7cd8b0bcf3fc
 	github.com/jzelinskie/whirlpool v0.0.0-20170603002051-c19460b8caa6
