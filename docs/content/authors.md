@@ -494,7 +494,7 @@ put them back in again.` >}}
   * Chris Macklin <chris.macklin@10xgenomics.com>
   * Antoon Prins <antoon.prins@surfsara.nl>
   * Alexey Ivanov <rbtz@dropbox.com>
-  * sp31415t1 <33207650+sp31415t1@users.noreply.github.com>
+  * Serge Pouliquen <sp31415@free.fr>
   * acsfer <carlos@reendex.com>
   * Tom <tom@tom-fitzhenry.me.uk>
   * Tyson Moore <tyson@tyson.me>
@@ -507,3 +507,5 @@ put them back in again.` >}}
   * partev <petrosyan@gmail.com>
   * Dmitry Sitnikov <fo2@inbox.ru>
   * Haochen Tong <i@hexchain.org>
+  * Michael Hanselmann <public@hansmi.ch>
+  * Chuan Zh <zhchuan7@gmail.com>
